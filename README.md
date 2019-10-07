@@ -1,6 +1,10 @@
 # 0_inicis
 Crea un repositori
 
+## Activitats
+* [LlocWeb](https://bethle13.github.io/LlocWeb/)
+* [CMYK]
+
 ## Páginas clase
 * [Página clase 2GP](https://arquesm.github.io/2GP/)
 * [Lenguaje etiquetas github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
