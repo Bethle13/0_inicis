@@ -4,7 +4,7 @@ Crea un repositori
 ## Activitats
 * [LlocWeb](https://bethle13.github.io/LlocWeb/)
 * [CMYK]
-* [7_gridMoMa] (https://bethle13.github.io/7_grid_MoMa/)
+* [7_gridMoMa](https://bethle13.github.io/7_grid_MoMa/)
 
 ## Páginas clase
 * [Página clase 2GP](https://arquesm.github.io/2GP/)
