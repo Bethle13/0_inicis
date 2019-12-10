@@ -6,7 +6,7 @@ Crea un repositori
 * [2_CMYK](https://bethle13.github.io/2_CMYK/)
 * [3_Broom](https://bethle13.github.io/3_Broom/)
 * [4_Maquetació](https://bethle13.github.io/4_Maquetaci-/)
-* [5_Targetes]
+* [5_Targetes](https://bethle13.github.io/5_Targetes/)
 * [6_Ladingpage]
 * [7_gridMoMa](https://bethle13.github.io/7_grid_MoMa/)
 * [8_gridarea]
