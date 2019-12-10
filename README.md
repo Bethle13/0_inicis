@@ -5,8 +5,11 @@ Crea un repositori
 * [1_LlocWeb](https://bethle13.github.io/LlocWeb/)
 * [2_CMYK](https://bethle13.github.io/2_CMYK/)
 * [3_Broom](https://bethle13.github.io/3_Broom/)
-* [4_
+* [4_Maquetació](https://bethle13.github.io/4_Maquetaci-/)
+* [5_Targetes]
+* [6_Ladingpage]
 * [7_gridMoMa](https://bethle13.github.io/7_grid_MoMa/)
+* [8_gridarea]
 
 ## Páginas clase
 * [Página clase 2GP](https://arquesm.github.io/2GP/)
