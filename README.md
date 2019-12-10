@@ -2,8 +2,10 @@
 Crea un repositori
 
 ## Activitats
-* [LlocWeb](https://bethle13.github.io/LlocWeb/)
-* [CMYK]
+* [1_LlocWeb](https://bethle13.github.io/LlocWeb/)
+* [2_CMYK](https://bethle13.github.io/2_CMYK/)
+* [3_Broom](https://bethle13.github.io/3_Broom/)
+* [4_
 * [7_gridMoMa](https://bethle13.github.io/7_grid_MoMa/)
 
 ## Páginas clase
