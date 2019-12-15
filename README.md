@@ -7,9 +7,9 @@ Crea un repositori
 * [3_Broom](https://bethle13.github.io/3_Broom/)
 * [4_Maquetació](https://bethle13.github.io/4_Maquetaci-/)
 * [5_Targetes](https://bethle13.github.io/5_Targetes/)
-* [6_Ladingpage]
-* [7_gridMoMa](https://bethle13.github.io/7_grid_MoMa/)
-* [8_gridarea]
+* [6_Ladingpage](https://bethle13.github.io/6_Ladingpage/)
+* [7_gridMoMa](https://bethle13.github.io/7_gridmoma/)
+* [8_Minimalissimo](https://bethle13.github.io/8_Minimalissimo/)
 
 ## Páginas clase
 * [Página clase 2GP](https://arquesm.github.io/2GP/)
