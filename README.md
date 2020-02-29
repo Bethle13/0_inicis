@@ -10,7 +10,8 @@ Crea un repositori
 * [6_Ladingpage](https://bethle13.github.io/6_Ladingpage/)
 * [7_gridMoMa](https://bethle13.github.io/7_gridmoma/)
 * [8_Minimalissimo](https://bethle13.github.io/8_Minimalissimo/)
-* [14_script Belen_kerly](https://bethle13.github.io/14_JS_Belen-Kerly/)
+* [13_jscript_indivual](https://bethle13.github.io/13_js_individual/)
+* [14_jscript Belen_kerly](https://bethle13.github.io/14_JS_Belen-Kerly/)
 * [15_menu_Belen-Kerly](https://bethle13.github.io/15_menu/)
 
 ## Páginas clase
