@@ -15,6 +15,7 @@ Crea un repositori
 * [13_jscript_indivual](https://bethle13.github.io/13_js_individual/)*el js no funciona (en local sí)
 * [14_jscript Belen_kerly](https://bethle13.github.io/14_JS_Belen-Kerly/)
 * [15_menu_Belen-Kerly](https://bethle13.github.io/15_menu/)
+* [16_portfoli] (https://bethle13.github.io/16_Porfoli/)
 
 ## Páginas clase
 * [Página clase 2GP](https://arquesm.github.io/2GP/)
